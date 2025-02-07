@@ -1,0 +1,4 @@
+streamlit 
+educhain 
+langchain-google-genai
+langchain_community
